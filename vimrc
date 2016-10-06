@@ -131,8 +131,8 @@ endif
 " ============================ theme and status line ============================
 
 " theme
-set background=dark
-colorscheme desert
+set background=light
+"colorscheme desert
 
 " set mark column color
 hi! link SignColumn   LineNr
